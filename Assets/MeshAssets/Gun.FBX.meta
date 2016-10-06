@@ -13,6 +13,16 @@ ModelImporter:
     100010: //RootNode
     100012: Hammer
     100014: TopStock
+    100016: Backing
+    100018: Barrol
+    100020: Plane001
+    100022: Barrol001
+    100024: BottomStock001
+    100026: Gard001
+    100028: Grip001
+    100030: Hammer001
+    100032: Plane002
+    100034: TopStock001
     400000: BottomStock
     400002: Cylinder001
     400004: Cylinder002
@@ -21,6 +31,16 @@ ModelImporter:
     400010: //RootNode
     400012: Hammer
     400014: TopStock
+    400016: Backing
+    400018: Barrol
+    400020: Plane001
+    400022: Barrol001
+    400024: BottomStock001
+    400026: Gard001
+    400028: Grip001
+    400030: Hammer001
+    400032: Plane002
+    400034: TopStock001
     2300000: BottomStock
     2300002: Cylinder001
     2300004: Cylinder002
@@ -28,6 +48,15 @@ ModelImporter:
     2300008: Grip
     2300010: Hammer
     2300012: TopStock
+    2300014: Barrol
+    2300016: Plane001
+    2300018: Barrol001
+    2300020: BottomStock001
+    2300022: Gard001
+    2300024: Grip001
+    2300026: Hammer001
+    2300028: Plane002
+    2300030: TopStock001
     3300000: BottomStock
     3300002: Cylinder001
     3300004: Cylinder002
@@ -35,6 +64,15 @@ ModelImporter:
     3300008: Grip
     3300010: Hammer
     3300012: TopStock
+    3300014: Barrol
+    3300016: Plane001
+    3300018: Barrol001
+    3300020: BottomStock001
+    3300022: Gard001
+    3300024: Grip001
+    3300026: Hammer001
+    3300028: Plane002
+    3300030: TopStock001
     4300000: BottomStock
     4300002: Cylinder001
     4300004: Cylinder002
@@ -42,6 +80,15 @@ ModelImporter:
     4300008: Grip
     4300010: Hammer
     4300012: TopStock
+    4300014: Barrol
+    4300016: Plane001
+    4300018: TopStock001
+    4300020: Plane002
+    4300022: Hammer001
+    4300024: Grip001
+    4300026: Gard001
+    4300028: BottomStock001
+    4300030: Barrol001
     9500000: //RootNode
   materials:
     importMaterials: 1
